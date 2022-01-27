@@ -1,4 +1,8 @@
+
 # STARPay
+
+Grabathon 24 hour hackathon POC project submission 
+Won 2nd place 🥳 
 Offline payment using TOTP and JWT
 
 Run : 
